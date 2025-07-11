@@ -33,4 +33,4 @@ Aplicación de escritorio con interfaz gráfica desarrollada en Python usando Tk
 ### 1. Clonar el repositorio
 ```bash
 git clone https://github.com/SantiFontana04/ProyectoFinalPythonFontana.git
-cd tu_repositorio
+cd ProyectoFinalPythonFontana
